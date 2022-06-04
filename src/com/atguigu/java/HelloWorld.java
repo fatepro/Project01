@@ -25,5 +25,6 @@ public class HelloWorld {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
+        int i= 0;
     }
 }
